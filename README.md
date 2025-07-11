@@ -29,7 +29,7 @@
 
 ### 📅 提交日历热力图 📅
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pixel-LH&count_private=true)
 
 ### ⚡ 实时统计卡片 ⚡
 
@@ -114,10 +114,6 @@
 </tr>
 </table>
 
-### 🏆 成就徽章 (Achievement Badges) 🏆
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pixel-LH&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-
 ### 📊 详细提交分析 📊
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pixel-LH&theme=radical" alt="Profile Summary" />
@@ -141,21 +137,4 @@
 </tr>
 </table>
 
-
-
-### 🎮 编程习惯分析 🎮
-
-<div align="left">
-
-\`\`\`text
-🌅 早晨编程时间    ████████████████████████░   89.2% 
-🌞 白天编程时间    ██████████████████████░░░   78.5% 
-🌆 傍晚编程时间    ████████████████░░░░░░░░░   65.3% 
-🌙 深夜编程时间    ████████████████████████░   92.1% 
-
-💻 最活跃的一天    星期六
-🔥 连续编程天数    42 天
-⚡ 平均每日提交    10 次
-🎯 最长连击记录    15 天
-\`\`\`
 
