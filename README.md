@@ -12,6 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+
 \`\`\`python
 class Developer:
     def __init__(self):
@@ -29,20 +30,9 @@ me.say_hi()
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> 📊 Commit Dashboard (提交仪表板)
 
-<div align="center">
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> 📊 Commit Dashboard
 
-### 🎯 实时提交状态监控 🎯
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
-
-</div>
-
-<details>
-<summary><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="25"> 📈 详细统计数据 (Detailed Statistics)</summary>
-
-<div align="center">
 
 ### 🔥 GitHub 活动概览 🔥
 
@@ -50,7 +40,7 @@ me.say_hi()
 
 ### 📅 提交日历热力图 📅
 
-<img src="https://ghchart.rshah.org/FF69B4/Pixel-LH" alt="GitHub Contribution Chart" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 ### ⚡ 实时统计卡片 ⚡
 
@@ -59,7 +49,7 @@ me.say_hi()
 <td>
 
 **📊 总体统计**
-<img src="https://github-readme-stats.vercel.app/api?username=Pixel-LH&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&custom_title=GitHub+Stats+✨" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pixel-LH&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&custom_title=GitHub+Stats+✨" alt="GitHub Stats" />
 
 </td>
 <td>
@@ -71,13 +61,24 @@ me.say_hi()
 </tr>
 </table>
 
+<table>
+<tr>
+<td>
+
 ### 🌈 语言使用分布 🌈
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixel-LH&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4" alt="Top Languages" />
 
+</td>
+<td>
+
 ### 📈 提交时间分析 📈
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pixel-LH&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4" alt="WakaTime Stats" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -151,9 +152,6 @@ me.say_hi()
 </tr>
 </table>
 
-### 🌟 贡献蛇蛇动画 🌟
-
-<img src="https://raw.githubusercontent.com/Pixel-LH/Pixel-LH/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 
 ### 🎮 编程习惯分析 🎮
@@ -172,12 +170,3 @@ me.say_hi()
 🎯 最长连击记录    15 天
 \`\`\`
 
-</div>
-
-### 🏅 月度编程挑战 🏅
-
-<img src="https://img.shields.io/badge/一月挑战-✅_完成-00FF00?style=for-the-badge&logo=checkmark&logoColor=white" alt="January Challenge" />
-<img src="https://img.shields.io/badge/二月挑战-✅_完成-00FF00?style=for-the-badge&logo=checkmark&logoColor=white" alt="February Challenge" />
-<img src="https://img.shields.io/badge/三月挑战-🔄_进行中-FF69B4?style=for-the-badge&logo=loading&logoColor=white" alt="March Challenge" />
-
-</div>
