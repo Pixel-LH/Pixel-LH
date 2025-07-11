@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> こんにちは！I'm [Pixel-LH]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> こんにちは��I'm Pixel-LH! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=940&lines=Python+Developer+%F0%9F%90%8D;WEB-DL+Enthusiast+%F0%9F%9A%80;Anime+Lover+%F0%9F%92%96;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
 
@@ -10,25 +10,14 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> ✨ 关于我 (About Me)
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+<div align="center">
 
-\`\`\`python
-class Developer:
-    def __init__(self):
-        self.name = "Pixel-LH"
-        self.role = "Python Developer"
-        self.language_spoken = ["zh_CN", "en_US"]
-        self.passion = ["Coding", "Anime"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's code something amazing together! 🚀")
+### 🌸 我是一位热爱 Python 的开发者，专注于构建高效、可扩展的解决方案 🌸
+### 💫 我对技术充满热情，并不断探索新的领域 💫
 
-me = Developer()
-me.say_hi()
-\`\`\`
-
----
+</div>
+</br>
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> 📊 Commit Dashboard
